@@ -3,11 +3,32 @@ Este es mi proyecto de residencias para mostrarles los productos hidraulicos y n
 
 ## Productos
 ### Abrazaderas
-#### Abrazaderas Boss
-[![circuito](![Abrazadera boss](https://github.com/user-attachments/assets/6db86c01-31aa-4209-bd93-f05507cb9f67))](![Abrazadera boss](https://github.com/user-attachments/assets/6db86c01-31aa-4209-bd93-f05507cb9f67))]
+#### Abrazaderas Boss  
+![Abrazadera boss](https://github.com/user-attachments/assets/c6aeba86-ef20-45f4-80ed-003fc48ae2ef)
 
 #### Abrazaderas de doble perno
-####
+
+#### Abrazaderas de fleje
+#### Abrazaderas de pellizco
+#### Abrazaderas en espiral
+#### Abrazaderas con perno T
+
+### Acumuladores hidráulicos
+
+### Actuadores neumaticos
+
+### Adaptadores (tubing hidráulico)
+
+### Adhesivos y limpieza
+
+### Avelanadora
+
+
+
+
+
+
+
 
 
 ## Diagramas
