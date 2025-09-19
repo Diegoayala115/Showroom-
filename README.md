@@ -7,6 +7,8 @@ Este es mi proyecto de residencias para mostrarles los productos hidraulicos y n
 ![Abrazadera boss](https://github.com/user-attachments/assets/c6aeba86-ef20-45f4-80ed-003fc48ae2ef)
 
 #### Abrazaderas de doble perno
+![Abrazadera de doble perno](https://github.com/user-attachments/assets/7231d9ae-9e66-4739-9865-a7d855bc873a)
+
 
 #### Abrazaderas de fleje
 #### Abrazaderas de pellizco
