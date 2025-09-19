@@ -9,8 +9,9 @@ Este es mi proyecto de residencias para mostrarles los productos hidraulicos y n
 #### Abrazaderas de doble perno
 ![Abrazadera de doble perno](https://github.com/user-attachments/assets/7231d9ae-9e66-4739-9865-a7d855bc873a)
 
-
 #### Abrazaderas de fleje
+![Abrazaderas de fleje](https://github.com/user-attachments/assets/16764d53-198f-426f-afde-19693c83214c)
+
 #### Abrazaderas de pellizco
 #### Abrazaderas en espiral
 #### Abrazaderas con perno T
